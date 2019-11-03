@@ -3,7 +3,7 @@ package com.qa.pages;
 public class SearchPage {
 	
 	public void searchPage() {
-		System.out.println("Search Page modified 2");
+		System.out.println("Search Page modified to verify subbranch1 ");
 	}
 
 }
